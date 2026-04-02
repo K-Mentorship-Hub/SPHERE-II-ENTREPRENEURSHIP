@@ -4,7 +4,7 @@
 
 [![Org](https://img.shields.io/badge/GitHub-K--Mentorship--Hub-black)](https://github.com/K-Mentorship-Hub)
 [![Sphere](https://img.shields.io/badge/Sphere%20II-Entrepreneurship-f08c2e)](https://github.com/K-Mentorship-Hub/SPHERE-II-ENTREPRENEURSHIP)
-[![Stack](https://img.shields.io/badge/stack-Notion%20%2B%20Discord%20%2B%20GitHub-purple)](https://github.com/K-Mentorship-Hub)
+[![Stack](https://img.shields.io/badge/stack-GitHub%20%2B%20Discord%20%2B%20Tally-purple)](https://github.com/K-Mentorship-Hub)
 
 *Explore the opportunity. Validate the direction. Organize the next move.*
 
@@ -69,6 +69,19 @@ This sphere helps people:
 - operating templates
 - founder routines
 - weekly execution loops
+
+---
+
+## Practical Specialties
+
+This sphere is the strongest home for:
+
+- `B2B Marketing Strategies`
+- `B2C Marketing Strategies`
+- `E-commerce & Marketplaces`
+- `SMB and service-based startup directions`
+- `co-founder matching`
+- `venture validation`
 
 ---
 
@@ -139,8 +152,8 @@ Choose the `primary_sphere` by the main question, then label the hybrid if neede
 ## Source Of Truth
 
 - `GitHub` for structure, startup templates, and public docs
-- `Notion` for guidebook, intake, and internal routing
 - `Discord` for live interaction and founder-side energy
+- `Tally` for intake and opt-in founder routing
 
 ---
 
