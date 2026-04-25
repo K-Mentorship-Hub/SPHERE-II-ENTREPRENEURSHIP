@@ -134,6 +134,16 @@ This support is signal-based, not paid placement.
 
 ---
 
+## Starter Practice
+
+See:
+
+- [`PRACTICE-TASKS.md`](./PRACTICE-TASKS.md)
+
+Use these tasks for validation drills, public cases, and fork-first practice.
+
+---
+
 ## Practical Rule
 
 `MVP` is not its own sphere.
