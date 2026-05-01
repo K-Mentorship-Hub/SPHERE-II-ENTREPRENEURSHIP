@@ -1,6 +1,6 @@
-# K Mentorship Hub · SPHERE II / ENTREPRENEURSHIP
+# K Mentorship Hub - SPHERE II / ENTREPRENEURSHIP
 
-**A structured venture-facing direction layer for turning early ideas into validation paths, public cases, and practical startup movement**
+**A structured venture-facing direction layer for turning early ideas into validation paths, public cases, and practical startup movement.**
 
 [![Org](https://img.shields.io/badge/GitHub-K--Mentorship--Hub-black)](https://github.com/K-Mentorship-Hub)
 [![Sphere](https://img.shields.io/badge/Sphere%20II-Entrepreneurship-f08c2e)](https://github.com/K-Mentorship-Hub/SPHERE-II-ENTREPRENEURSHIP)
@@ -42,33 +42,44 @@ This sphere helps people:
 
 ## Core Directions
 
-### `E1` · Venture, Product, and Opportunity Systems
+### `E1` - Venture, Product, and Opportunity Systems
 
 - problem framing
 - product logic
 - venture direction
 - structured opportunity thinking
 
-### `E2` · Validation, Market Sensemaking, and GTM
+### `E2` - Validation, Market Sensemaking, and GTM
 
 - early validation
 - audience thinking
 - positioning
 - lightweight growth logic
 
-### `E3` · Ecosystem, Experts, and Partnership Signals
+### `E3` - Ecosystem, Experts, and Partnership Signals
 
 - ecosystem mapping
 - collaborator discovery
 - partner and stakeholder logic
 - useful public signals across startups, experts, and small businesses
 
-### `E4` · Public Cases, Playbooks, and Founder Ops
+### `E4` - Public Cases, Playbooks, and Founder Ops
 
 - visible startup cases
 - operating templates
 - founder routines
 - weekly execution loops
+
+---
+
+## Active Execution Docs
+
+Use the active docs layer for structured venture research and GPT-assisted work:
+
+- [`docs/README.md`](./docs/README.md)
+- [`docs/core/E1_E4_RESEARCH_EXECUTION_INDEX.md`](./docs/core/E1_E4_RESEARCH_EXECUTION_INDEX.md)
+- [`docs/core/ENTREPRENEURSHIP_STRUCTURE_APPROVAL_GATE.md`](./docs/core/ENTREPRENEURSHIP_STRUCTURE_APPROVAL_GATE.md)
+- [`docs/core/GPT_ASSISTED_ENTREPRENEURSHIP_WORKFLOW.md`](./docs/core/GPT_ASSISTED_ENTREPRENEURSHIP_WORKFLOW.md)
 
 ---
 
@@ -89,31 +100,15 @@ This sphere is the strongest home for:
 
 ### Academy
 
-Use this sphere for:
-
-- founder basics
-- product and validation literacy
-- startup direction for beginners
-- practical venture education without MBA-style bloat
+Use this sphere for founder basics, product and validation literacy, startup direction for beginners, and practical venture education without MBA-style bloat.
 
 ### MVP Lab
 
-Use this sphere for:
-
-- founder ideas
-- early-stage validation
-- team assembly
-- build-or-don't-build decisions
+Use this sphere for founder ideas, early-stage validation, team assembly, and build-or-do-not-build decisions.
 
 ### Networking
 
-Use this sphere to connect:
-
-- founders
-- operators
-- mentors
-- practical collaborators
-- selected ecosystem allies
+Use this sphere to connect founders, operators, mentors, practical collaborators, and selected ecosystem allies.
 
 ---
 
@@ -128,7 +123,7 @@ This sphere is also the right place to highlight:
 
 Current highlighted signal:
 
-- [`FAZENA`](https://www.fazena.org/) — a young science-to-venture team building AI- and computation-driven therapeutics workflows, services, and platforms such as `RNA Hunter`
+- [`FAZENA`](https://www.fazena.org/) - a young science-to-venture team building AI- and computation-driven therapeutics workflows, services, and platforms such as `RNA Hunter`
 
 This support is signal-based, not paid placement.
 
