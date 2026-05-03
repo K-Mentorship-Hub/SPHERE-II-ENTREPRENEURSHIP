@@ -10,10 +10,10 @@
 
 | | |
 |---|---|
-| **Sphere** | E — Entrepreneurship |
-| **Core question** | How do you run a venture with discipline, not just energy? |
-| **Best for** | People who find satisfaction in operational systems and transparent documentation |
-| **Good first output** | Weekly update template or build/wait/kill decision board |
+| 🏷️ **Sphere** | E — Entrepreneurship |
+| 🎯 **Core question** | How do you run a venture with discipline, not just energy? |
+| 👤 **Best for** | People who find satisfaction in operational systems and transparent documentation |
+| 🏆 **Good first output** | Weekly update template or build/wait/kill decision board |
 
 ---
 
@@ -21,7 +21,7 @@
 
 | Concept | What it means |
 |---------|---------------|
-| Decision frameworks | Build/wait/kill — explicit criteria prevent emotional decisions |
+| 📋 Decision frameworks | Build/wait/kill — explicit criteria prevent emotional decisions |
 | Communication rhythm | Weekly updates keep investors, team, and advisors aligned |
 | Case documentation | Your story is an asset — public cases attract talent, users, and capital |
 | Operational discipline | What gets tracked gets managed |
@@ -32,10 +32,10 @@
 
 ## ⚔️ Quests
 
-### Quest E4.1 — Weekly Update Template
+### 🗝️ Quest E4.1 — Weekly Update Template
 **⏱ Time:** ~20 min | **Difficulty:** ⭐ Beginner
 
-**Goal:** Create a repeatable template for founder updates.
+**Quest:** Create a repeatable template for founder updates.
 
 ```
 WEEKLY UPDATE — Week [#]
@@ -50,10 +50,10 @@ WEEKLY UPDATE — Week [#]
 
 ---
 
-### Quest E4.2 — Public Case Structure
+### 🗝️ Quest E4.2 — Public Case Structure
 **⏱ Time:** ~30 min | **Difficulty:** ⭐⭐ Intermediate
 
-**Goal:** Convert one founder story into a structured case under 500 words.
+**Quest:** Convert one founder story into a structured case under 500 words.
 
 ```
 PUBLIC CASE
@@ -65,10 +65,10 @@ PUBLIC CASE
 
 ---
 
-### Quest E4.3 — Build / Wait / Kill Board
+### 🗝️ Quest E4.3 — Build / Wait / Kill Board
 **⏱ Time:** ~30 min | **Difficulty:** ⭐⭐ Intermediate
 
-**Goal:** Create a decision framework for an MVP idea.
+**Quest:** Create a decision framework for an MVP idea.
 
 | Decision | Criteria | Evidence needed | Deadline | Decider |
 |----------|----------|----------------|----------|---------|
@@ -80,10 +80,10 @@ PUBLIC CASE
 
 ---
 
-### Quest E4.4 — Metric Dashboard
+### 🗝️ Quest E4.4 — Metric Dashboard
 **⏱ Time:** ~30 min | **Difficulty:** ⭐⭐ Intermediate
 
-**Goal:** Design a one-page startup dashboard. No vanity metrics.
+**Quest:** Design a one-page startup dashboard. No vanity metrics.
 
 | Metric | Target | Current | Trend |
 |--------|--------|---------|-------|
@@ -97,10 +97,10 @@ PUBLIC CASE
 
 ---
 
-### Quest E4.5 — Post-Mortem
+### 🗝️ Quest E4.5 — Post-Mortem
 **⏱ Time:** ~30 min | **Difficulty:** ⭐⭐⭐ Advanced
 
-**Goal:** Write a post-mortem for a failed feature or product.
+**Quest:** Write a post-mortem for a failed feature or product.
 
 ```
 POST-MORTEM: [Feature/Product name]
@@ -117,12 +117,13 @@ POST-MORTEM: [Feature/Product name]
 
 ## 🧭 Test-Drive Verdict
 
-| Signal | Flag |
+| 📡 Signal | 🚩 Flag |
 |--------|------|
-| You found the templates immediately useful | 🟢 Green |
-| Tracking and documenting felt natural | 🟢 Green |
-| You'd rather build than document | 🟡 Yellow (maybe SPHERE-III) |
-| Operational discipline feels like bureaucracy | 🔴 Red |
+| 📊 You wanted to track more metrics | 🟢 **Green** — this is your path |
+| 📝 Writing the update felt clarifying | 🟢 **Green** — lean into this |
+| 😶 Public sharing felt risky | 🟡 **Yellow** — maybe internal ops, not public |
+| 🔨 You preferred building to documenting | 🟡 **Yellow** — maybe [SPHERE-III — Technology](https://github.com/K-Mentorship-Hub/SPHERE-III-TECHNOLOGY) |
+| 😴 Documentation felt like bureaucracy | 🔴 **Red** |
 
 ---
 

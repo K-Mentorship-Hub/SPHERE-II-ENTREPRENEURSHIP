@@ -2,7 +2,7 @@
 
 **Sphere:** E | **Quest Line:** Testing Whether People Actually Want It
 
-> *"Most of your assumptions are wrong. The question is: which ones?"*
+> 📊 *"Most of your assumptions are wrong. The question is: which ones?"*
 
 ---
 
@@ -10,10 +10,10 @@
 
 | | |
 |---|---|
-| **Sphere** | E — Entrepreneurship |
-| **Core question** | How do you test demand before building supply? |
-| **Best for** | People who can handle being wrong and want data over opinions |
-| **Good first output** | Validation checklist or fake landing page test |
+| 🏷️ **Sphere** | E — Entrepreneurship |
+| 🎯 **Core question** | How do you test demand before building supply? |
+| 👤 **Best for** | People who can handle being wrong and want data over opinions |
+| 🏆 **Good first output** | Validation checklist or fake landing page test |
 
 ---
 
@@ -32,10 +32,10 @@
 
 ## ⚔️ Quests
 
-### Quest E2.1 — Validation Checklist
+### 🗝️ Quest E2.1 — Validation Checklist
 **⏱ Time:** ~30 min | **Difficulty:** ⭐ Beginner
 
-**Goal:** Build 10 questions you need answered before building anything.
+**Quest:** Build 10 questions you need answered before building anything.
 
 **Steps:**
 1. Write 10 validation questions for your idea
@@ -51,10 +51,10 @@
 
 ---
 
-### Quest E2.2 — Interview Script
+### 🗝️ Quest E2.2 — Interview Script
 **⏱ Time:** ~30 min | **Difficulty:** ⭐⭐ Intermediate
 
-**Goal:** Write 5 customer interview questions that actually work.
+**Quest:** Write 5 customer interview questions that actually work.
 
 **Rules:**
 - No "would you use this?" → people lie to be nice
@@ -70,7 +70,7 @@
 | 5 | | |
 
 <details>
-<summary>💡 Good vs. Bad interview questions</summary>
+<summary>� Good vs. Bad interview questions</summary>
 
 | Bad | Why | Good instead |
 |-----|-----|-------------|
@@ -82,10 +82,10 @@
 
 ---
 
-### Quest E2.3 — GTM Map
+### 🗝️ Quest E2.3 — GTM Map
 **⏱ Time:** ~30 min | **Difficulty:** ⭐⭐ Intermediate
 
-**Goal:** Map how users will discover your product.
+**Quest:** Map how users will discover your product.
 
 ```
 GTM MAP
@@ -98,10 +98,10 @@ GTM MAP
 
 ---
 
-### Quest E2.4 — Landing Page Test
+### 🗝️ Quest E2.4 — Landing Page Test
 **⏱ Time:** ~45 min | **Difficulty:** ⭐⭐ Intermediate
 
-**Goal:** Write copy for a fake landing page. No product exists yet — can you still get signups?
+**Quest:** Write copy for a fake landing page. No product exists yet — can you still get signups?
 
 **Steps:**
 1. Write:
@@ -112,7 +112,7 @@ GTM MAP
    - **CTA** (what should they do?)
 
 <details>
-<summary>💡 Headline formulas that work</summary>
+<summary>� Headline formulas that work</summary>
 
 - "Do [outcome] without [pain point]"
 - "The [category] for [specific audience]"  
@@ -123,10 +123,10 @@ GTM MAP
 
 ---
 
-### Quest E2.5 — Competitive Audit
+### 🗝️ Quest E2.5 — Competitive Audit
 **⏱ Time:** ~45 min | **Difficulty:** ⭐⭐ Intermediate
 
-**Goal:** Find 3 competitors and identify your differentiation.
+**Quest:** Find 3 competitors and identify your differentiation.
 
 | Competitor | What they do well | What they miss | What you'd do differently |
 |-----------|------------------|----------------|--------------------------|
@@ -140,13 +140,13 @@ GTM MAP
 
 ## 🧭 Test-Drive Verdict
 
-| Signal | Flag |
+| 📡 Signal | 🚩 Flag |
 |--------|------|
-| You wanted to actually run the experiments | 🟢 Green |
-| Being wrong felt like progress, not failure | 🟢 Green |
-| You preferred building to testing | 🟡 Yellow (maybe SPHERE-III — Technology) |
-| The uncertainty made you anxious | 🟡 Yellow (maybe more structured roles) |
-| You couldn't handle the "we were wrong" cycle | 🔴 Red |
+| 🐇 You wanted to actually run the experiments | 🟢 **Green** |
+| ✅ Being wrong felt like progress, not failure | 🟢 **Green** |
+| 🔨 You preferred building to testing | 🟡 **Yellow** |
+| 😰 The uncertainty made you anxious | 🟡 **Yellow** |
+| ❌ You couldn't handle the "we were wrong" cycle | 🔴 **Red** |
 
 ---
 

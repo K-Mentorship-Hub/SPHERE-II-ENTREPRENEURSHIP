@@ -10,10 +10,10 @@
 
 | | |
 |---|---|
-| **Sphere** | E — Entrepreneurship |
-| **Core question** | Who already has what you need, and how do you connect with them? |
-| **Best for** | People who enjoy connecting others and investing in relationships long-term |
-| **Good first output** | Ecosystem map or outreach draft |
+| 🏷️ **Sphere** | E — Entrepreneurship |
+| 🎯 **Core question** | Who already has what you need, and how do you connect with them? |
+| 👤 **Best for** | People who enjoy connecting others and investing in relationships long-term |
+| 🏆 **Good first output** | Ecosystem map or outreach draft |
 
 ---
 
@@ -32,10 +32,10 @@
 
 ## ⚔️ Quests
 
-### Quest E3.1 — Ecosystem Map
+### 🗝️ Quest E3.1 — Ecosystem Map
 **⏱ Time:** ~30 min | **Difficulty:** ⭐ Beginner
 
-**Goal:** Map 5 key players around one direction.
+**Quest:** Map 5 key players around one direction.
 
 ```
 ECOSYSTEM MAP: [Your direction]
@@ -48,10 +48,10 @@ ECOSYSTEM MAP: [Your direction]
 
 ---
 
-### Quest E3.2 — Outreach Draft
+### 🗝️ Quest E3.2 — Outreach Draft
 **⏱ Time:** ~20 min | **Difficulty:** ⭐⭐ Intermediate
 
-**Goal:** Write a cold outreach message under 100 words.
+**Quest:** Write a cold outreach message under 100 words.
 
 **Rules:**
 - Make it about **them**, not you
@@ -59,7 +59,7 @@ ECOSYSTEM MAP: [Your direction]
 - Show you've done your homework
 
 <details>
-<summary>💡 Outreach template</summary>
+<summary>� Quicktreach template</summary>
 
 > Hi [Name],
 > 
@@ -75,10 +75,10 @@ ECOSYSTEM MAP: [Your direction]
 
 ---
 
-### Quest E3.3 — "Who Should I Talk To First?" Guide
+### 🗝️ Quest E3.3 — "Who Should I Talk To First?" Guide
 **⏱ Time:** ~30 min | **Difficulty:** ⭐ Beginner
 
-**Goal:** Write a guide for a founder entering your domain.
+**Quest:** Write a guide for a founder entering your domain.
 
 | Category | Entry 1 | Entry 2 | Entry 3 |
 |----------|---------|---------|---------|
@@ -88,10 +88,10 @@ ECOSYSTEM MAP: [Your direction]
 
 ---
 
-### Quest E3.4 — Partnership Proposal
+### 🗝️ Quest E3.4 — Partnership Proposal
 **⏱ Time:** ~45 min | **Difficulty:** ⭐⭐⭐ Advanced
 
-**Goal:** Draft a one-page partnership proposal.
+**Quest:** Draft a one-page partnership proposal.
 
 ```
 PARTNERSHIP PROPOSAL
@@ -105,10 +105,10 @@ PARTNERSHIP PROPOSAL
 
 ---
 
-### Quest E3.5 — Support Registry Entry
+### 🗝️ Quest E3.5 — Support Registry Entry
 **⏱ Time:** ~15 min | **Difficulty:** ⭐ Beginner
 
-**Goal:** Add one useful resource to the shared knowledge base.
+**Quest:** Add one useful resource to the shared knowledge base.
 
 | Field | Your entry |
 |-------|-----------|
@@ -122,12 +122,13 @@ PARTNERSHIP PROPOSAL
 
 ## 🧭 Test-Drive Verdict
 
-| Signal | Flag |
+| 📡 Signal | 🚩 Flag |
 |--------|------|
-| You enjoyed mapping connections between people | 🟢 Green |
-| You wrote the outreach message eagerly | 🟢 Green |
-| Networking feels transactional, not genuine | 🟡 Yellow |
-| You'd rather build than connect | 🔴 Red (try SPHERE-III) |
+| 🤝 You naturally mapped relationships | 🟢 **Green** — this is your path |
+| 📧 The outreach draft felt exciting | 🟢 **Green** — lean into this |
+| 😶 Cold outreach made you uncomfortable | 🟡 **Yellow** — maybe product, not people-facing |
+| 🔨 You wanted to build, not network | � **Yellow** — maybe [SPHERE-III — Technology](https://github.com/K-Mentorship-Hub/SPHERE-III-TECHNOLOGY) |
+| 😴 People-intensive work didn't appeal | 🔴 **Red** |
 
 ---
 
