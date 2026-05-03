@@ -171,3 +171,36 @@ Always do bottom-up. Use top-down only as a sanity check.
 - **Test-drive first?** → [Quest 4 — Digital Product & Growth](https://github.com/K-Mentorship-Hub/SPHERE-DIRECTION-TEST-DRIVE/blob/main/QUESTS/quest-04-digital-product.md)
 - **Need tech to build the product?** → SPHERE-III Technology, direction T2
 - **Want to validate the idea?** → 📊 E2 — Validation / GTM
+
+---
+
+## 📋 Progress Tracker
+
+| Quest | Time | Status |
+|-------|------|--------|
+| E1.1 — Opportunity Map | ~30 min | ⬜ |
+| E1.2 — Problem Statement | ~30 min | ⬜ |
+| E1.3 — Idea vs. Problem vs. Timing | ~30 min | ⬜ |
+| E1.4 — Idea Graveyard | ~20 min | ⬜ |
+| E1.5 — Market Sizing | ~45 min | ⬜ |
+
+**Total estimated time: ~2.5 hours**
+
+Mark completed quests with ✅ in your fork.
+
+---
+
+## 🎯 The Big Picture
+
+Complete all quests and your venture map will evolve:
+
+| Stage | Unlocked By |
+|-------|-------------|
+| 💡 Opportunity Spotter | Quest E1.1 |
+| 🎯 Problem Framer | Quest E1.2 |
+| ⏱️ Timing Thinker | Quest E1.3 |
+| 🪦 Idea Killer | Quest E1.4 |
+| 📊 Market Sizer | Quest E1.5 |
+| 🏆 Venture-Ready | All Quests Complete |
+
+**You started with a vague idea. You ended with a validated problem, a sized market, and the discipline to kill bad ideas fast.** 🎉

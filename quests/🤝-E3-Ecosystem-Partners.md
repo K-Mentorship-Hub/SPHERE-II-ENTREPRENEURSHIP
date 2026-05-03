@@ -137,3 +137,34 @@ PARTNERSHIP PROPOSAL
 - **Found a problem?** → 💼 E1 — Venture / Product
 - **Validated demand?** → 📊 E2 — Validation / GTM
 - **Ready to operate?** → 📋 E4 — Founder Ops
+
+---
+
+## 📋 Progress Tracker
+
+| Quest | Time | Status |
+|-------|------|--------|
+| E3.1 — Stakeholder Map | ~30 min | ⬜ |
+| E3.2 — Outreach Draft | ~30 min | ⬜ |
+| E3.3 — Partnership Scorecard | ~30 min | ⬜ |
+| E3.4 — Ecosystem Directory | ~45 min | ⬜ |
+
+**Total estimated time: ~2 hours**
+
+Mark completed quests with ✅ in your fork.
+
+---
+
+## 🎯 The Big Picture
+
+Complete all quests and your ecosystem map will evolve:
+
+| Stage | Unlocked By |
+|-------|-------------|
+| 🗺️ Relationship Mapper | Quest E3.1 |
+| 📧 Outreach Ready | Quest E3.2 |
+| ⚖️ Partnership Evaluator | Quest E3.3 |
+| 📋 Ecosystem Builder | Quest E3.4 |
+| 🏆 Ecosystem-Ready | All Quests Complete |
+
+**You started thinking you could do it alone. You ended with a mapped network and the skill to build partnerships.** 🎉

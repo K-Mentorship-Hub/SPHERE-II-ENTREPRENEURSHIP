@@ -166,3 +166,36 @@ GTM MAP
 - **Found a problem?** → 💼 E1 — Venture / Product
 - **Need partners to reach market?** → 🤝 E3 — Ecosystem
 - **Ready to operate like a founder?** → 📋 E4 — Founder Ops
+
+---
+
+## 📋 Progress Tracker
+
+| Quest | Time | Status |
+|-------|------|--------|
+| E2.1 — Hypothesis List | ~20 min | ⬜ |
+| E2.2 — Interview Script | ~30 min | ⬜ |
+| E2.3 — Landing Page | ~45 min | ⬜ |
+| E2.4 — Pricing Experiment | ~30 min | ⬜ |
+| E2.5 — Competitive Audit | ~30 min | ⬜ |
+
+**Total estimated time: ~2.5 hours**
+
+Mark completed quests with ✅ in your fork.
+
+---
+
+## 🎯 The Big Picture
+
+Complete all quests and your validation map will evolve:
+
+| Stage | Unlocked By |
+|-------|-------------|
+| 📝 Hypothesis Writer | Quest E2.1 |
+| 🗣️ Interview Ready | Quest E2.2 |
+| 🌐 Landing Page Live | Quest E2.3 |
+| 💰 Pricing Experimenter | Quest E2.4 |
+| 🔍 Competitive Analyst | Quest E2.5 |
+| 🏆 Validation-Ready | All Quests Complete |
+
+**You started assuming your idea was good. You ended with evidence — and the habit of testing before building.** 🎉

@@ -132,3 +132,34 @@ POST-MORTEM: [Feature/Product name]
 - **Have a problem?** → 💼 E1 — Venture / Product
 - **Validated demand?** → 📊 E2 — Validation / GTM
 - **Need partners?** → 🤝 E3 — Ecosystem
+
+---
+
+## 📋 Progress Tracker
+
+| Quest | Time | Status |
+|-------|------|--------|
+| E4.1 — Weekly Update | ~20 min | ⬜ |
+| E4.2 — Decision Log | ~20 min | ⬜ |
+| E4.3 — Metric Dashboard | ~30 min | ⬜ |
+| E4.4 — Post-Mortem | ~30 min | ⬜ |
+
+**Total estimated time: ~1.5 hours**
+
+Mark completed quests with ✅ in your fork.
+
+---
+
+## 🎯 The Big Picture
+
+Complete all quests and your founder-ops map will evolve:
+
+| Stage | Unlocked By |
+|-------|-------------|
+| 📝 Update Writer | Quest E4.1 |
+| 🧭 Decision Logger | Quest E4.2 |
+| 📊 Metric Tracker | Quest E4.3 |
+| 🔥 Post-Mortem Analyst | Quest E4.4 |
+| 🏆 Founder-Ops Ready | All Quests Complete |
+
+**You started thinking founders just build products. You ended with the operating discipline that keeps ventures alive.** 🎉
