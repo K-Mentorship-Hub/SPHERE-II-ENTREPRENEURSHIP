@@ -49,7 +49,7 @@ OPPORTUNITY MAP
 └── 📏 One success metric
 ```
 
-> 🪞 **Reflection:** Was it painful to kill parts of your idea? That's the point.
+> 💭 **Reflection:** Was it painful to kill parts of your idea? That's the point.
 
 ---
 
@@ -64,7 +64,7 @@ OPPORTUNITY MAP
 **Example:**
 > Remote teams of 5-20 people struggle with silent conflict because there's no structured way to surface tensions. Current tools (Slack polls, 1-on-1s) fail because they rely on people self-reporting. If solved, team productivity could increase 20-40%.
 
-> 🪞 **Reflection:** Did you want to jump to the solution, or did the problem framing feel valuable?
+> 💭 **Reflection:** Did you want to jump to the solution, or did the problem framing feel valuable?
 
 ---
 
@@ -85,7 +85,7 @@ OPPORTUNITY MAP
 2. Rank them by importance: ___ > ___ > ___
 3. Explain your ranking in 3 sentences
 
-> 🪞 **Reflection:** Do you naturally think about timing and market conditions, or just the product?
+> 💭 **Reflection:** Do you naturally think about timing and market conditions, or just the product?
 
 ---
 
